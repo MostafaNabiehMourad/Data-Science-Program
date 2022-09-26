@@ -1,4 +1,4 @@
-# Data-Science-Program
+# Data Science Program
 - Data Ecosystem 
 - Python
 - API with Python
